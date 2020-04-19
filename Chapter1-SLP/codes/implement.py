@@ -5,7 +5,8 @@ import numpy as np
 np.random.seed(1234)
 
 
-def randomize(): np.random.seed(time.time())
+def randomize():
+    np.random.seed(time.time())
 
 
 # hyperparameter ################
