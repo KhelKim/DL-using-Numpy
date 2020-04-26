@@ -4,4 +4,4 @@
 mkdir $1
 mkdir $1/codes
 touch $1/README.md $1/set_data.sh
-touch $1/codes/implement.py $1/codes/run.py
+touch $1/codes/implement.py $1/codes/run.ipynb
